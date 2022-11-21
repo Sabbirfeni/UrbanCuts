@@ -1,11 +1,11 @@
 /*
 Common style start
 ---------------------------*/
-
 /* Montserrat Bold (font-family: 'Josefin Sans', sans-serif;) */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 /* Montserrat Semibold (font-family: 'Josefin Slab', serif;) */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
 * {
     padding: 0%;
     margin:0%;
@@ -23,6 +23,7 @@ img {
 }
 a {
     text-decoration: none;
+    color: white;
 }
 .fullHeight {
     width: 100%;
@@ -396,7 +397,9 @@ Second section start
 .aboutUsImage {
     object-fit: cover;
 }
-
+.availableTime {
+    color: #0de77a;
+}
 /*
 Second section end
 ---------------------------*/
