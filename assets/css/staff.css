@@ -1,0 +1,41 @@
+.heroStaff {
+    background-color: #000000;
+    background-position: center;
+}
+
+.prices {
+    padding: 0.8rem;
+}
+.price {
+    display: flex;
+}
+.price p {
+    padding: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+}
+
+.price p:nth-child(2) {
+    margin-left: 10px;
+    background-color: #303030;
+    border: 1px solid #303030;
+}
+
+@media only screen and (max-width: 992px) {
+    .heroStaff {
+        background-image: url('../images/home-page-hero.JPG');
+        background-color: none;
+        background-position: center;
+    }
+    .prices p {
+        font-size: 13px;
+        background-color: #000000;
+        border: 1px solid black;
+    }
+}
+
+@media only screen and (max-width: 600px)  {
+    .prices p {
+        font-size: 11px;
+    }
+}
