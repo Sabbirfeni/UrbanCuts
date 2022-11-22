@@ -12,8 +12,8 @@ Common style start
     scroll-behavior: smooth;
 }
 body {
-    background-color: #4a4c4e;
-    color: white;
+    /* background-color: #4a4c4e;
+    color: white; */
 }
 img {
     width: 100%;
@@ -324,7 +324,7 @@ Hero style start
     color: white;
 }
 
-/* .hero::after {
+.hero::after {
     content: '';
     position: absolute;
     width: 100%;
@@ -334,7 +334,7 @@ Hero style start
     top: 0%;
     left: 0%;
     z-index: -1;
-} */
+}
 .heroHome {
     /* background-image: url('../images/hero-home.jpg'); */
     /* background-color: #4a4c4e; */
@@ -459,7 +459,7 @@ Responsive design start
         display: none;
     }
     .heroHome {
-        background-image: url('../images/hero-home.jpg');
+        background-image: url('../images/home-page-hero.JPG');
         background-color: none;
         background-position: center;
     }
