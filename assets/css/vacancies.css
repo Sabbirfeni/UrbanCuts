@@ -1,0 +1,20 @@
+.heroVacancies {
+    background-color: #000000;
+    background-position: center;
+}
+
+.vacanciesHeroText {
+    padding: 3rem;
+}
+
+@media only screen and (max-width: 992px) {
+    .heroVacancies {
+        background-image: url('../images/hero-staff.JPG');
+        background-color: none;
+        background-position: center;
+    }
+    .vacanciesHeroText {
+        padding: 2rem;
+    }
+}
+

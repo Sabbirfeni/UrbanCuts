@@ -1,4 +1,4 @@
-.heroStaff {
+.heroPrices {
     background-color: #000000;
     background-position: center;
 }
@@ -22,8 +22,8 @@
 }
 
 @media only screen and (max-width: 992px) {
-    .heroStaff {
-        background-image: url('../images/home-page-hero.JPG');
+    .heroPrices {
+        background-image: url('../images/hero-prices.JPG');
         background-color: none;
         background-position: center;
     }
