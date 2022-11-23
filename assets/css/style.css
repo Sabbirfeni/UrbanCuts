@@ -400,6 +400,22 @@ Second section start
 .availableTime {
     color: #0de77a;
 }
+
+.socialMediaIcon {
+    display: flex;
+    justify-content: center;
+}
+
+.socialMediaIcon img {
+    width: 40px;
+    height: 40px;
+    margin: 0px 5px;
+    transition: 0.3s;
+}
+
+.socialMediaIcon img:hover {
+    transform: scale(1.15);
+}
 /*
 Second section end
 ---------------------------*/
