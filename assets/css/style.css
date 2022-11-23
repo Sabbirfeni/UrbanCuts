@@ -12,8 +12,8 @@ Common style start
     scroll-behavior: smooth;
 }
 body {
-    /* background-color: #4a4c4e;
-    color: white; */
+    background-color: #4a4c4e;
+    color: white;
 }
 img {
     width: 100%;
