@@ -459,9 +459,9 @@ Responsive design start
         display: none;
     }
     .heroHome {
-        background-image: url('../images/home-page-hero.JPG');
+        background-image: url('../images/home-page-hero3.png');
         background-color: none;
-        background-position: center;
+        background-position: right;
     }
     .heroContent > div {
         width: 100%;
