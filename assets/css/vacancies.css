@@ -9,7 +9,7 @@
 
 @media only screen and (max-width: 992px) {
     .heroVacancies {
-        background-image: url('../images/hero-staff.JPG');
+        background-image: url('../images/hero-staff.png');
         background-color: none;
         background-position: center;
     }
