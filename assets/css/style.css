@@ -535,7 +535,7 @@ Responsive design start
     }
     .heroText {
         padding-right: 0px;
-        padding-left: 80px;
+        padding-left: 0px;
     }
     .logo-container a {
         font-size: 18px;
