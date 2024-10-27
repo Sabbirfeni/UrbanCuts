@@ -433,6 +433,10 @@ Responsive design start
     .header-area {
         padding: 7px 20px;
     }
+    .hero {
+ 
+    padding: 0px 20px;
+}
     .padding {
         padding: 40px 0px;
     }
